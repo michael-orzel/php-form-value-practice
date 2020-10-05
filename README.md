@@ -1,2 +1,2 @@
-# php-form-value-practice
+# [PHP Practice] - Form Values
 Practice using form values with PHP.
